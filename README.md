@@ -1,7 +1,7 @@
 ## Introduction
 ---
 
-Hello! My name is Lisa Krenkel and I'm a **Biotechnologist** (specialising in **Bioinformatics** and **Genomics**) with a **Bachelor of Science** degree from the University of Applied Sciences Mittweida. Currently, I'm completing my studies for a **Masters's degree** and looking for an institution to write my thesis at (plannes graduation mid-2023).
+Hello! My name is Lisa Krenkel and I'm a **Biotechnologist** (specialising in **Bioinformatics** and **Genomics**) with a **Bachelor of Science** degree from the University of Applied Sciences Mittweida. Currently, I'm completing my studies for a **Masters's degree** and looking for an institution to write my thesis at (planned graduation mid-2023).
 
 ## Skills
 ---
