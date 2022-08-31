@@ -21,7 +21,7 @@ Hello! My name is Lisa Krenkel and I'm a **Biotechnologist** (specialising in **
 
 ### Software & Tools
 
-- Visualosation (e.g. matplotlib, gnuplot, ...)
+- Visualization (e.g. matplotlib, gnuplot, ...)
 - Data Handling/Analysis (e.g. numpy, scipy, pandas, ...)
 - Microsoft Office (e.g. Word, Excel, Powerpoint, ...)
 
