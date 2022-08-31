@@ -9,6 +9,7 @@ Hello! My name is Lisa Krenkel and I'm a **Biotechnologist** (specialising in **
 ### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LaTex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=LaTex&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-yellowgreen?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
